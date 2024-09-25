@@ -4,13 +4,17 @@
 - Above libary work ok with TFT 240x240 square or round screen. ( tft.int(240x320) may be not work correctly). So i make some change in libary to work with 240x320 screen.  
 ---
 # Wring on STM32F03C6 i'm ussing SPI1
-TFT_CS   PA4 // some board RS
-TFT_RST  PB12
-TFT_DC   PA3 // Data command
-TFT_MOSI PA7  // Data out maybe SDI
-TFT_SCLK PA5  // Clock out maybe SCK
+TFT_CS   PA4 // some board RS  
+TFT_RST  PB12  
+
+TFT_DC   PA3 // Data command  
+
+TFT_MOSI PA7  // Data out maybe SDI  
+
+TFT_SCLK PA5  // Clock out maybe SCK  
+
 ***
 # Final test
 ___
 ![Hình ảnh minh họa](https://github.com/pangcrd/TFT_ST7789V_STM32F03C6/blob/main/image/photo_2024-09-25_15-34-14.jpg)
-![Hình ảnh minh họa](image/photo_2024-09-25_15-34-17)
+![Hình ảnh minh họa](https://github.com/pangcrd/TFT_ST7789V_STM32F03C6/blob/main/image/photo_2024-09-25_15-34-17.jpg)
