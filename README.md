@@ -18,5 +18,9 @@ TFT_SCLK PA5  // Clock out maybe SCK
 ***
 # Final test
 ___
-![Hình ảnh minh họa](https://github.com/pangcrd/TFT_ST7789V_STM32F03C6/blob/main/image/photo_2024-09-25_15-34-14.jpg)
-![Hình ảnh minh họa](https://github.com/pangcrd/TFT_ST7789V_STM32F03C6/blob/main/image/photo_2024-09-25_15-34-17.jpg)
+<table>
+  <tr>
+    <td><img src="https://github.com/pangcrd/TFT_ST7789V_STM32F03C6/blob/main/image/photo_2024-09-25_15-34-14.jpg" alt="Image 1" width="200"/></td>
+    <td><img src="https://github.com/pangcrd/TFT_ST7789V_STM32F03C6/blob/main/image/photo_2024-09-25_15-34-17.jpg" alt="Image 2" width="200"/></td>
+  </tr>
+</table>
