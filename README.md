@@ -3,7 +3,7 @@
 - ST7789V libary: https://github.com/deirvlon/ST7789v-Arduino
 - Above libary work ok with TFT 240x240 square or round screen. ( tft.int(240x320) may be not work correctly). So i make some change in libary to work with 240x320 screen.  
 ---
-# Wring on STM32F03C6 i'm ussing SPI1
+# Wring on STM32F03C6 i'm using SPI1
 
 TFT_CS   PA4 // some board RS 
 
