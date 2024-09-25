@@ -4,7 +4,9 @@
 - Above libary work ok with TFT 240x240 square or round screen. ( tft.int(240x320) may be not work correctly). So i make some change in libary to work with 240x320 screen.  
 ---
 # Wring on STM32F03C6 i'm ussing SPI1
-TFT_CS   PA4 // some board RS  
+
+TFT_CS   PA4 // some board RS 
+
 TFT_RST  PB12  
 
 TFT_DC   PA3 // Data command  
